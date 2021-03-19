@@ -27,3 +27,6 @@ beta 2.0:
 -added another 2 links
 
 -added a discord link/site
+
+stable 2.0:
+site is now html, css tag remains.
