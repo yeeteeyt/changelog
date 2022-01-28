@@ -30,3 +30,23 @@ beta 2.0:
 
 stable 2.0:
 site is now html, css tag remains.
+
+public 1.7
+
+-forgot changelog
+
+-add dino game
+
+-add among us image
+
+-attempt to add loader, failed
+
+-thaone5866.github.io/hell has stopped working due to the code's location being deleted ( somecoolwebsite.github.io )
+
+#planned
+
+-remove hell
+
+-fix main page
+
+-better buttons
